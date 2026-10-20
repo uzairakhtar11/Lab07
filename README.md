@@ -1,4 +1,4 @@
-# Temperature Converter
+# Temp Conv
 
 ## Purpose
 A simple Python program that converts temperature to farenheit
