@@ -13,7 +13,7 @@ Input:
 [100]
 
 Output:
-[373]
+[212]
 
 ## Author
 Uzair Akhtar (615431)
