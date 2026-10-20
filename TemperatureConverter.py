@@ -12,3 +12,6 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 print(" Showing in Fahrenheit:", fahrenheit)
+
+kelvin=celsius+273
+print("result in kelvin=",kelvin)
